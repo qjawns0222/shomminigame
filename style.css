@@ -1,0 +1,87 @@
+body{
+    display:flex;
+    flex-flow:column nowrap;
+    align-items: center;
+    background-color:rgb(55,60,69) ;
+}
+.search{
+    display: flex;
+    padding-bottom: 2%;
+    justify-content: space-around;
+    width: 40%;
+    
+}
+.search>div{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    
+    
+}
+.search>.color>button{
+    display: flex;
+    border: 1px solid black;
+    padding: 3%;
+    font-size: 24px;
+    font-weight: bolder;
+    border-radius: 0.5em;
+    width: 25%;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.search>.shape>button{
+ 
+   display: flex;
+   border: none;
+   
+   background-color: rgb(55,60,69);
+}
+
+
+.search>.color>.blue{
+    
+    background-color:rgb(54,124,189) ;
+}
+
+.search>.color>.yellow{
+    background-color:rgb(213,166,64) ;
+}
+
+.search>.color>.pink{
+    background-color:rgb(242,116,121) ;
+}
+.sub>div{
+    display: flex;
+    flex-flow: row wrap;
+    background-color: whitesmoke ;
+    padding: 2%;
+    border-radius: 0.5em;
+    margin: 2%;
+    width: 100%;
+    font-size: 24px;
+    font-weight: bolder;
+    align-items: center;
+}
+.sub{
+    width: 40%;
+}
+.sub>div>img{
+    padding-right: 4%;
+}
+
+.shop:hover,
+.search button:hover{
+    transform:scale(1.1);
+}
+
+
+
+
+
+
+
+

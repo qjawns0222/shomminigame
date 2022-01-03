@@ -1,0 +1,53 @@
+{
+"sub":[
+    {
+        "type":"tshirt",
+        "size":"large",
+        "gender":"male",
+        "image":"../imgs/yellow_t.png",
+        "color":"yellow"
+    },
+    {"type":"pants",
+        "size":"small",
+        "gender":"female",
+        "image":"../imgs/pink_p.png",
+        "color":"pink"
+    },
+    {"type":"tshirt",
+        "size":"large",
+        "gender":"male",
+        "image":"../imgs/blue_t.png",
+        "color":"blue"
+    },
+    {"type":"pants",
+        "size":"large",
+        "gender":"male",
+        "image":"../imgs/yellow_p.png",
+        "color":"yellow"
+    },
+    {"type":"skirt",
+        "size":"small",
+        "gender":"male",
+        "image":"../imgs/blue_s.png",
+        "color":"blue"
+    },
+    {"type":"skirt",
+        "size":"large",
+        "gender":"male",
+        "image":"../imgs/yellow_s.png",
+        "color":"yellow"
+    },
+    {"type":"tshirt",
+        "size":"small",
+        "gender":"female",
+        "image":"../imgs/pink_t.png",
+        "color":"pink"
+    },
+    {"type":"tshirt",
+        "size":"large",
+        "gender":"male",
+        "image":"../imgs/yellow_t.png",
+        "color":"yellow"
+    }
+]
+}
